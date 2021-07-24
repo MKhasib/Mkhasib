@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I am currently focusing on learning DSA and Flutter
 - 💁‍♂️ I am also working as a TA at Birzeit unversity
 - 😎 Further more, I am teaching over 50 people how to code this summer!
-- 📫 How to reach me: majd.khasib98@gmail.com
-- ⚡ Fun fact: Sometimes I LOVE to solve problems 24/7
+- ⚡ Fun fact: Sometimes I LOVE to code 24/7
 
 <br />
 
@@ -49,3 +48,14 @@ Here are some ideas to get you started:
 <div align="center" >
   <img src="https://profile-counter.glitch.me/mkhasib/count.svg"></img>
 </div>
+
+<br /><br />
+<h2 align="center">Let's Connect 😎</h2>
+<p align="center">
+  <a href = "mailto:majd.khasib98@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/mkhasib1/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+ 
+</p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
