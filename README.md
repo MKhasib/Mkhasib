@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Majd Khasib
-- 💻 I am currently working as a CTO at a local startup
-- 🌱 I am currently focusing on learning DSA and Flutter
-- 💁‍♂️ I am also working as a TA at Birzeit unversity
-- 😎 Further more, I am teaching over 50 people how to code this summer!
+- 🔭 I have 1.5+ years of experince working as a software engineer
+- 💻 I worked as a co-founder and CTO at a local startup
+- 💁‍♂️ I also worked as a teacher asistant at Birzeit unversity
+- 🌱 I am currently focusing on learning DSA and React
+- 😎 Further more, I am taught over 50 people the MERN tech stack!
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 
 <br />
