@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💻 I worked as a CTO and co-founder at a local startup
 - 💁‍♂️ I also worked as a teacher asistant at Birzeit unversity
 - 🌱 I am currently focusing on learning DSA and React
-- 😎 Further more, I am taught over 50 people the MERN tech stack!
+- 😎 Further more, I taught over 50 people the MERN tech stack!
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 
 <br />
