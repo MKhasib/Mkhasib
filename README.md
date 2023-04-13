@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👋 I am Majd Khasib
 - 🔭 I have about 3 years of experince working as a software engineer
-- 💻 I am working as a frontned engineer at Upwork
+- 💻 I am currently working as a frontned engineer at the core team of Upwork
 - 💁‍♂️ I also teached as a teacher asistant at Birzeit unversity
 - 🌱 I am currently focusing on learning design systems
 - 😎 Further more, I created a community called "one hand can't clap" to share knowaladge in Palestine
