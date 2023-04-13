@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 💻 I am currently working as a frontned engineer at the core team of Upwork
 - 💁‍♂️ I also teached as a teacher asistant at Birzeit unversity
 - 🌱 I am currently focusing on learning design systems
-- 😎 Further more, I created a community called "one hand can't clap" to share knowaladge in Palestine
-- ⚡ Fun fact: Sometimes I LOVE making jokes while working
+- 😎 Further more, I created a community called "one hand can't clap" to share knowaladge in Palestine with over 5000 SWE in it 🤯
+- ⚡ Fun fact: I LOVE making jokes while working to make a friendly enviroment 😹
 
 <br />
 
