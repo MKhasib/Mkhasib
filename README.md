@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Majd Khasib
-- 🔭 I have 1.5+ years of experince working as a software engineer
-- 💻 I worked as a CTO and co-founder at a local startup
-- 💁‍♂️ I also worked as a teacher asistant at Birzeit unversity
-- 🌱 I am currently focusing on learning DSA and React
-- 😎 Further more, I taught over 50 people the MERN tech stack!
-- ⚡ Fun fact: Sometimes I LOVE to code 24/7
+- 🔭 I have about 3 years of experince working as a software engineer
+- 💻 I am working as a frontned engineer at Upwork
+- 💁‍♂️ I also teached as a teacher asistant at Birzeit unversity
+- 🌱 I am currently focusing on learning design systems
+- 😎 Further more, I created a community called "one hand can't clap" to share knowaladge in Palestine
+- ⚡ Fun fact: Sometimes I LOVE making jokes while working
 
 <br />
 
